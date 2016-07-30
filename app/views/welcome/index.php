@@ -37,7 +37,7 @@
 <body>
 <div class="container">
     <div class="row">
-        <h1 class="text-center">Welcome to MVC Initialize.</h1>
+        <h1 class="text-center">Welcome to <strong>My MVC Initialize</strong>.</h1>
         <h2 class="text-center">Feel free to develop your project with this <strong>MVC</strong>.</h2><br>
         <hr>
         <br><br>
@@ -63,7 +63,7 @@
                         contributorDiv += '<img data-toggle="tooltip" data-placement="top" title="' + e.name + '" class="img-responsive" src="' + e.avatar_url + '"  height="150"/>';
                         contributorDiv += "<div class='caption'>";
                         contributorDiv += "<h3 class='text-center'>" + e.name + "</h3>";
-                        contributorDiv += "<p class='text-center'>" + e.bio + ".<br> In my github profile I have "+ e.public_repos +" repository.</p>";
+                        contributorDiv += "<p class='text-center'>" + e.bio + ".<br> In my github profile I have <span class='badge'>"+ e.public_repos +"</span> repository.</p>";
                         contributorDiv += "<p class='text-center'><a href='" + e.html_url + "' target='_blank'><i class='fa fa-github fa-3x'></i></a>  <a href='" + e.blog + "' style='margin-left: 5px' target='_blank'><i class='fa fa-globe fa-3x'></i></a>  <a href='mailto:"+ e.email +"?subject=Hi Christian' style='margin-left: 5px' target='_blank'><i class='fa fa-envelope fa-3x'></i></a> </p>";
                         contributorDiv += "</div>";
                         contributorDiv += "</div>";

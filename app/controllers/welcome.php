@@ -3,10 +3,10 @@
 /**
  * Created by PhpStorm.
  * User: ChristianDevCode
- * Date: 7/29/2016
- * Time: 6:17 PM
+ * Date: 7/30/2016
+ * Time: 10:14 AM
  */
-class Home extends Controller
+class Welcome extends Controller
 {
     public function index()
     {

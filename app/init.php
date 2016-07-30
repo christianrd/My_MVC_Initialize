@@ -8,6 +8,9 @@
 
 
 //require_once ('');
+require_once ('../vendor/autoload.php');
+
+require_once ('config/database.php');
 
 require_once ('core/App.php');
 

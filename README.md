@@ -1,4 +1,4 @@
-My_MVC_Initialize [![version](https://img.shields.io/badge/version-v0.2.0-yellowgreen.svg)](https://github.com/christianrd/My_MVC_Initialize/releases/tag/v0.2.0)
+My_MVC_Initialize [![version](https://img.shields.io/badge/version-v1.0.0-yellowgreen.svg)](https://github.com/christianrd/My_MVC_Initialize/releases/tag/v0.2.0)
 ========
 
 My_MVC_Initialize is a simple MVC framework and it contain BootStrap3 (Framework CSS), FontAwesome(fonts) and Jquery. 
