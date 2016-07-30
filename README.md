@@ -5,7 +5,7 @@ My_MVC_Initialize is a simple MVC framework and it contain BootStrap3 (Framework
 
 ### Getting Started 
 
-To use this framework you can fork this repository on GitHub (For some more information on how to fork a repository, [ check out our guide, "Forking Projects"](https://help.github.com/articles/fork-a-repo/).) or download this project. :mortar_board:
+To use this framework you can fork this repository on GitHub (For more information on how to fork a repository, [ check out our guide, "Forking Projects"](https://help.github.com/articles/fork-a-repo/).) or download this project. :mortar_board:
 
 - Clone your fork to this repository
 - for do a simple test local only you have to write "http://localhost/My_mvc_Initialize/public/welcome" (You need had install Apache "PHP")
